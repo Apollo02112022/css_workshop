@@ -1,0 +1,56 @@
+body {
+
+    margin: 0;
+    min-height: 100vh;
+
+}
+
+
+.container {
+
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 120px;
+
+
+}
+
+header, footer {
+
+    background-color: aqua;
+    text-align: center;
+    height: 60px;
+    box-sizing: border-box;
+    text-align: center;
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+.purple {
+
+background-color: purple;
+
+width: 20%;
+height: 100%;
+box-sizing: border-box;
+text-align: center;
+padding-top: 45px;
+font-weight: bold;
+
+
+
+}
+
+.pink {
+
+    background-color: pink;
+   
+    width: 60%;
+    height: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    padding-top: 45px;
+    font-weight: bold;
+
+}

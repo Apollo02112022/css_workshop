@@ -1,0 +1,19 @@
+.wrapper {
+    width: 680px;
+    height: 50%;
+
+
+}
+
+h1,p {
+    text-align: center;
+
+}
+
+.full-bleed {
+    width: 680px;
+    height: 58%;
+    display: block;
+
+    
+}
