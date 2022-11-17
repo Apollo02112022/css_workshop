@@ -1,0 +1,11 @@
+.wrapper{
+   width: 680px;
+   
+}
+h1,p{
+    text-align: center;
+}
+.full-bleed{
+   width: 680px;
+   height: 50%;
+}
